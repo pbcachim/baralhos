@@ -1,0 +1,10 @@
+streamlit
+bcrypt
+openpyxl
+xlsxwriter
+pandas
+pillow
+PyGithub
+langchain
+pypdf 
+faiss-cpu
